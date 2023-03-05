@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a86cc8b39687be644b5164cc557653f5, type: 3}
+  m_Name: ListWPEnemyLeft
+  m_EditorClassIdentifier: 
+  llista_waypoints:
+  - {fileID: 11400000, guid: 6907bcb362ff16844adcb5f7a9ca6fb2, type: 2}
+  - {fileID: 11400000, guid: 626e82aa72c5afb40812895197fffbf5, type: 2}
+  - {fileID: 11400000, guid: 34b6655c17b7b8449a37928cc0bdec71, type: 2}
+  - {fileID: 11400000, guid: 8d104218ac103394989438e7a563564e, type: 2}
+  - {fileID: 11400000, guid: e18d8530a5412984795c7a2a46b3b6d2, type: 2}
+  - {fileID: 11400000, guid: 734b1b19af4446141a58d2c6c56ffba2, type: 2}
+  - {fileID: 11400000, guid: 05325c7816e9f0741833d332354fd269, type: 2}

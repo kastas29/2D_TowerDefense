@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a86cc8b39687be644b5164cc557653f5, type: 3}
+  m_Name: LlistaWaypoint_LvL1
+  m_EditorClassIdentifier: 
+  llista_waypoints:
+  - {fileID: 11400000, guid: de144baac0fefd84a96ef54a2fc0b6b5, type: 2}
+  - {fileID: 11400000, guid: fcaf7c7053ba3704d86010393d38537d, type: 2}
+  - {fileID: 11400000, guid: 233bc7d42f4912d4e901b00755acc060, type: 2}
+  - {fileID: 11400000, guid: dbbae4578e31654459ce33f78736e955, type: 2}
+  - {fileID: 11400000, guid: 4df88574b56e1e546afb705fa08863ef, type: 2}
+  - {fileID: 11400000, guid: f365c71a3aa8b3a43be3bdc0a629d47d, type: 2}
+  - {fileID: 11400000, guid: 6ddf5f31ccaa6624989543d3a5519702, type: 2}
+  - {fileID: 11400000, guid: 89294080f340b3b499543258bbe7a8b3, type: 2}
